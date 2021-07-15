@@ -1,6 +1,6 @@
 AFRAME.registerComponent('log', {
     schema: {
-        message:{type:"string",default:"This is a log"}
+        message:{type:"string",default:"car.js"}
     },
 
     init: function () {
